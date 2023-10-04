@@ -7,7 +7,7 @@
 
 ### The truth table of hex to 7-seg decoder
 
-![](https://hackmd.io/_uploads/SJA2hJse6.png)
+<img src="[your image file path here](https://hackmd.io/_uploads/SJA2hJse6.png)" alt="image" />
 
 ![](https://hackmd.io/_uploads/HylyTJsx6.png)
 
